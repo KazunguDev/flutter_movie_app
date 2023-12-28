@@ -32,24 +32,7 @@ Movie app made in Flutter with clean architecture using BLoC, Hive and the movie
   <img src="https://github.com/mohamadayash1/flutter-movie-app/blob/main/screenshots/08.png" width="250" />
 </p>
 
-## Installation
-### 1. Clone the repo
-```bash
-git clone https://github.com/mohamadayash22/flutter-movie-app.git
-cd flutter-movie-app
-```
-### 2. Run pub get
-```bash
-flutter pub get
-```
-### 3. Add your API key into api_constants file
-```bash
-apiKey = 'YOUR_API_KEY';
-```
-### 4. Run the app
-```bash 
-flutter run
-```
+
 
 ## Packages
 - [cached_network_image](https://pub.dev/packages/cached_network_image)
@@ -72,6 +55,4 @@ flutter run
 - [url_launcher](https://pub.dev/packages/url_launcher)
 
 
-## Acknowledgements
-This app is based on 
-[Build a Movie App - FlutterFlow](https://www.youtube.com/watch?v=ZPkVRoa1AA8) YouTube video by [@abuanwar072](https://github.com/abuanwar072/), special thanks to Abu Anwar for his amazing videos and tutorials!
+
